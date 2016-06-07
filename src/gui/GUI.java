@@ -35,7 +35,8 @@ public class GUI extends JFrame {
      */
     public GUI() {
         super("PowerPaint");
-        setup();                 
+        setup();    
+        // test
     }
     
     /**
